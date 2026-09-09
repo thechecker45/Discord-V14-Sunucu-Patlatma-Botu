@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=🚀+Discord+v14+Sunucu+Patlatma+Botu;🔥+TheChecker+Tarafından;💀+Tam+Donanımlı+Nuke+Botu" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=🚀+Discord+v14+Sunucu+Patlatma;🔥+TheChecker+Tarafından;💀+Tam+Donanımlı+Nuke+Botu" alt="Typing SVG" />
 </p>
 
 <p align="center">
