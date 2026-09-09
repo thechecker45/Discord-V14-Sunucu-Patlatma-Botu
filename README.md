@@ -13,6 +13,9 @@
 
 ## 👑 Hakkında
 
+Bu Bot Tamamen Benim tarafımdan yazılmıştır. Sadece Readme.md nin yapımında ve kodlarda 1-2 hata konusunda yapay zekadan destek alınmıştır
+Onun için Kodun içerisinde yapay zeka görünümü var
+
 Bu bot, Discord sunucularında **tam yetkili nuke/patlatma işlemleri** yapabilen, **slash komut** desteğine sahip, **detaylı log sistemi** bulunan ve **tüm ayarları config.json** üzerinden yönetilen güçlü bir v14 botudur.
 
 **Geliştirici:** [TheChecker](https://thechecker.com.tr)
